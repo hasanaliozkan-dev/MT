@@ -1,0 +1,11 @@
+Hasta ID,Ad,Soyad,Cinsiyet,Yaş,Doğum Tarihi,Medeni Durum,Eğitim Durumu,Meslek,İl
+1001,Ayşe,Yılmaz,Kadın,34,1990-03-15,Evli,Lisans,Öğretmen,Ankara
+1002,Mehmet,Demir,Erkek,58,1966-01-10,Evli,Lise,,İstanbul
+1003,Zeynep,Koç,Kadın,26,1998-08-20,Bekar,Yüksek Lisans,Mühendis,İzmir
+1004,Ali,Şahin,Erkek,45,1979-11-02,Evli,Doktora,Akademisyen,
+1005,Elif,Aydın,Kadın,38,1986-04-25,Bekar,Lisans,Bankacı,
+1006,Hasan,Kara,Erkek,22,2002-12-30,Bekar,Ön Lisans,,Konya
+1007,Fatma,Özcan,Kadın,31,1993-07-07,Evli,Lise,Ev Hanımı,Gaziantep
+1008,Ahmet,Çelik,Erkek,66,1958-02-14,Dul,İlkokul,Emekli İşçi,Adana
+1009,Emine,Polat,Kadın,29,1995-05-05,Evli,Lisans,Hemşire,Samsun
+1010,Murat,Aslan,Erkek,40,1984-09-17,Evli,Yüksek Lisans,Yazılım Uzmanı,Kayseri
